@@ -1,0 +1,6 @@
+{
+  "name": "LXMMA 포상 현황 대시보드",
+  "description": "생산부문장 등 부문장 보고용 포상 집행 실적, 예산 소진 현황, 수혜율 및 주요 공적 통합 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
